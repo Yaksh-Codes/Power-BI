@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.tmp
+.pbi/
+# Large video files: share via link instead
+*.mp4
+*.mov
+*.avi
+*.mkv
